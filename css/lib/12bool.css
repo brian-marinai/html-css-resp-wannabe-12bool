@@ -1,7 +1,7 @@
 /* framework di griglia a 12 colonne */
 
 .container {
-  max-width: 1170px;
+  max-width: 992px;
   margin: 0 auto;
 }
 
