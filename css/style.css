@@ -1,0 +1,42 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+img{
+  height: 200px;
+}
+
+[class*="col-"] > h1{
+  font-size: 30px;
+  text-align: center;
+  padding-bottom: 30px;
+  padding-top: 60px;
+}
+[class*="col-"] > h3{
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+[class*="col-"] > p{
+  font-size: 18px;
+  line-height: 25px;
+  text-align: center;
+}
+[class*="col-"] > img{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 30px;
+}
+.colore{
+  background-color: #428bca;
+  border-radius: 50%;
+padding: 30px;
+}
+#sezione2{
+  background-color: #f9f9f9;
+}
+#sezione3{
+  background-color: #f9f9f9;
+}
