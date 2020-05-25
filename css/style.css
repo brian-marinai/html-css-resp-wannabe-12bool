@@ -37,3 +37,15 @@ img{
   margin-top: 60px;
   background-color: #f9f9f9;
 }
+@media screen and (min-width:769px) and (max-width:992px) {
+  img{
+    height: 150px;
+    width: auto;
+  }
+}
+@media screen and (max-width:768px) {
+  img{
+    height: 100px;
+    width: auto;
+  }
+}
